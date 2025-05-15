@@ -10,9 +10,9 @@ async def main():
     plugins = dict(root="mfinder/plugins")
     app = Client(
         name="mfinder",
-        api_id=APP_ID,
-        api_hash=API_HASH,
-        bot_token=BOT_TOKEN,
+        api_id=28862799,
+        api_hash=3dc3be3bfb934a68aa280044b064ccee,
+        bot_token=8074681333:AAHNHcNbU0nr3epf0fti_AHH36nfzSXxSqU,
         plugins=plugins,
     )
     async with app:
